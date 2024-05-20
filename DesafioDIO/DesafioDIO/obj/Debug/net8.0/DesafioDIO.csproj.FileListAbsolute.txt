@@ -1,0 +1,15 @@
+C:\Users\luped\OneDrive\Área de Trabalho\Teste1\Classificador-de-n-vel-de-Her-i\DesafioDIO\DesafioDIO\bin\Debug\net8.0\DesafioDIO.exe
+C:\Users\luped\OneDrive\Área de Trabalho\Teste1\Classificador-de-n-vel-de-Her-i\DesafioDIO\DesafioDIO\bin\Debug\net8.0\DesafioDIO.deps.json
+C:\Users\luped\OneDrive\Área de Trabalho\Teste1\Classificador-de-n-vel-de-Her-i\DesafioDIO\DesafioDIO\bin\Debug\net8.0\DesafioDIO.runtimeconfig.json
+C:\Users\luped\OneDrive\Área de Trabalho\Teste1\Classificador-de-n-vel-de-Her-i\DesafioDIO\DesafioDIO\bin\Debug\net8.0\DesafioDIO.dll
+C:\Users\luped\OneDrive\Área de Trabalho\Teste1\Classificador-de-n-vel-de-Her-i\DesafioDIO\DesafioDIO\bin\Debug\net8.0\DesafioDIO.pdb
+C:\Users\luped\OneDrive\Área de Trabalho\Teste1\Classificador-de-n-vel-de-Her-i\DesafioDIO\DesafioDIO\obj\Debug\net8.0\DesafioDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luped\OneDrive\Área de Trabalho\Teste1\Classificador-de-n-vel-de-Her-i\DesafioDIO\DesafioDIO\obj\Debug\net8.0\DesafioDIO.AssemblyInfoInputs.cache
+C:\Users\luped\OneDrive\Área de Trabalho\Teste1\Classificador-de-n-vel-de-Her-i\DesafioDIO\DesafioDIO\obj\Debug\net8.0\DesafioDIO.AssemblyInfo.cs
+C:\Users\luped\OneDrive\Área de Trabalho\Teste1\Classificador-de-n-vel-de-Her-i\DesafioDIO\DesafioDIO\obj\Debug\net8.0\DesafioDIO.csproj.CoreCompileInputs.cache
+C:\Users\luped\OneDrive\Área de Trabalho\Teste1\Classificador-de-n-vel-de-Her-i\DesafioDIO\DesafioDIO\obj\Debug\net8.0\DesafioDIO.sourcelink.json
+C:\Users\luped\OneDrive\Área de Trabalho\Teste1\Classificador-de-n-vel-de-Her-i\DesafioDIO\DesafioDIO\obj\Debug\net8.0\DesafioDIO.dll
+C:\Users\luped\OneDrive\Área de Trabalho\Teste1\Classificador-de-n-vel-de-Her-i\DesafioDIO\DesafioDIO\obj\Debug\net8.0\refint\DesafioDIO.dll
+C:\Users\luped\OneDrive\Área de Trabalho\Teste1\Classificador-de-n-vel-de-Her-i\DesafioDIO\DesafioDIO\obj\Debug\net8.0\DesafioDIO.pdb
+C:\Users\luped\OneDrive\Área de Trabalho\Teste1\Classificador-de-n-vel-de-Her-i\DesafioDIO\DesafioDIO\obj\Debug\net8.0\DesafioDIO.genruntimeconfig.cache
+C:\Users\luped\OneDrive\Área de Trabalho\Teste1\Classificador-de-n-vel-de-Her-i\DesafioDIO\DesafioDIO\obj\Debug\net8.0\ref\DesafioDIO.dll
